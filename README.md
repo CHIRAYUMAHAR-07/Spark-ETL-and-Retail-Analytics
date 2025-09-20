@@ -8,6 +8,7 @@ This project demonstrates how to build a modern, scalable data platform using th
 
 The goal is to showcase how raw, messy data can be turned into structured, insightful analytics — all within a reproducible, production-grade pipeline.
 
+
 # Dataset Description
 The dataset used is the Online Retail dataset, which contains transactional records from a global e-commerce business. It includes fields such as invoice numbers, product codes, descriptions, quantities, unit prices, customer IDs, and countries. With over 500,000 rows, it provides a rich foundation for building scalable ETL pipelines and extracting insights across time, geography, and product categories.
 
