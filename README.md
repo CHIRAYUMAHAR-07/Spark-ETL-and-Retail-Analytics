@@ -67,6 +67,6 @@ Extending the architecture to support real-time streaming using Kafka and Spark 
 # What This Project Demonstrates
 This project is a flagship example of how to architect a modern data platform that combines technical rigor with business relevance. It shows your ability to build scalable ETL pipelines, optimize data storage, generate actionable insights, and communicate results through compelling dashboards.
 
-![ETL Monitoring Power BI Dashboard_page-0001](https://github.com/user-attachments/assets/e8993a2c-aeea-41a9-a7d3-9cb9d1a93974)
+![Data Lakehouse Project (Databricks + Delta Lake + Apache Spark)_page-0001 (1)](https://github.com/user-attachments/assets/f713cf28-0602-416c-85d7-ce40703f16de)
 
 
